@@ -1,0 +1,7 @@
+5 
+12 m andrei 
+13 f alex 
+4 m andrei 
+2 f alexandra 
+2 f valentina 
+1
